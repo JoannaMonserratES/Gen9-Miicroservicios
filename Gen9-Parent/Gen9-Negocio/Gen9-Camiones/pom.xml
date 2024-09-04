@@ -6,11 +6,11 @@
 		<groupId>com.espinoza.negocio</groupId>
 		<artifactId>Gen9-Negocio</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
-	</parent>
-	<groupId>com.espinoza.choferes</groupId>
-	<artifactId>Gen9-Choferes</artifactId>
+		</parent>
+		<groupId>com.espinoza.camiones</groupId>
+	<artifactId>Gen9-Camiones</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Gen9-Choferes</name>
+	<name>Gen9-Camiones</name>
 	<description>Demo project for Spring Boot</description>
 	
 	<properties>
